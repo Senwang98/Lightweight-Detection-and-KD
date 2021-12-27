@@ -6,6 +6,7 @@ This repo also includes detection knowledge distillation method such as: CWD, FG
 
 # Acknowledgement
 Picodet is based on [This repo](https://github.com/Bo396543018/picodet_repro)
+Nanodet: [Nanodet](https://github.com/RangiLyu/nanodet)
 # 
 
 <div align="center">

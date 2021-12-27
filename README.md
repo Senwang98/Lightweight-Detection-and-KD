@@ -1,7 +1,11 @@
 # Lightweight-Detection-and-KD
 
 
-MMdet2-based reposity about lightweight detection model: Nanodet, PicoDet. Also including detection knowledge distillation method
+MMdet2-based reposity about lightweight detection model: Nanodet, PicoDet. 
+This repo also includes detection knowledge distillation method such as: CWD, FGD
+
+# Acknowledgement
+Picodet is based on https://github.com/Bo396543018/picodet_repro
 # 
 
 <div align="center">
